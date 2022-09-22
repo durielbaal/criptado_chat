@@ -1,0 +1,17 @@
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\bin\Debug\netcoreapp3.1\criptacion.exe
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\bin\Debug\netcoreapp3.1\criptacion.deps.json
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\bin\Debug\netcoreapp3.1\criptacion.runtimeconfig.json
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\bin\Debug\netcoreapp3.1\criptacion.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\bin\Debug\netcoreapp3.1\criptacion.dll
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\bin\Debug\netcoreapp3.1\criptacion.pdb
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.Encriptador.resources
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.AssemblyInfo.cs
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.dll
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.pdb
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.genruntimeconfig.cache
+C:\Users\Michael\Desktop\criptado_chat\criptacion\criptacion\obj\Debug\netcoreapp3.1\criptacion.Properties.Resources.resources
